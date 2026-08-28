@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "aadhar-card",
+      "description": "A placeholder image for an Aadhar card.",
+      "imageUrl": "https://images.unsplash.com/photo-1625225231874-dc5df462f1ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYXJkJTIwZG9jdW1lbnR8ZW58MHx8fHwxNzcwMjU3NjA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "card document"
+    },
+    {
+      "id": "worker-1",
+      "description": "Avatar for worker Rajesh Kumar",
+      "imageUrl": "https://images.unsplash.com/photo-1522556189639-b150ed9c4330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NzAyMDA4MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "worker-2",
+      "description": "Avatar for worker Sita Devi",
+      "imageUrl": "https://images.unsplash.com/photo-1546961329-78bef0414d7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc3MDIwMjU4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "worker-3",
+      "description": "Avatar for worker Amit Singh",
+      "imageUrl": "https://images.unsplash.com/photo-1619950498711-c2d22c4c3cb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW4lMjBwb3J0cmFpdCUyMHNtaWxpbmd8ZW58MHx8fHwxNzcwMjU3NjA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait smiling"
+    },
+    {
+      "id": "worker-4",
+      "description": "Avatar for worker Priya Sharma",
+      "imageUrl": "https://images.unsplash.com/photo-1716237443030-b1ddf1e2176c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMHBvcnRyYWl0JTIwcHJvZmVzc2lvbmFsfGVufDB8fHx8MTc3MDI1NzYwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait professional"
+    },
+    {
+      "id": "worker-5",
+      "description": "Avatar for worker Vikram Yadav",
+      "imageUrl": "https://images.unsplash.com/photo-1579893708432-caef02b31944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYW4lMjBwb3J0cmFpdCUyMGhhcHB5fGVufDB8fHx8MTc3MDI1NzYxMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait happy"
+    }
+  ]
+}
